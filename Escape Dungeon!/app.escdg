@@ -1,0 +1,6 @@
+-/$$ app_RUN
+
+//--$ escape-dungon-2.1.4 == \ -rep install_REP_CATAPKG $ /src/~
+$ /bin/bash -c --xc "$(curl -fsSL https://raw.githubusercontent.com/CataPKG/install/HEAD/install.pkg)"
+
+%/ escape dungeon!/src/com/jiGM/EscapeDungeon/display/Game.java -- RUN_PL
