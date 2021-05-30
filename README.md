@@ -4,4 +4,4 @@ New bug fixes available in this update! No new features.
 
 **Fixed bugs**
  - Smooth player movements (may not show if you have a slow computer or low-end PC)
- - Fixed FPS lags
+ - Fixed player lags
